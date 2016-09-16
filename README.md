@@ -3,7 +3,7 @@
 ## How to dev
 
 ```bash
-npm instal
+npm install
 npm start
 ```
 
