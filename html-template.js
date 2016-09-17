@@ -11,6 +11,11 @@ module.exports = function htmlTemplate({ title, repoName }) {
     user-scalable=no"
   />
   <title>${ title }</title>
+  <style>
+    a {
+      color: 'white';
+    }
+  </style>
   <link
     href="https://fonts.googleapis.com/css?family=Lobster+Two:400,700"
     rel="stylesheet"
