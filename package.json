@@ -51,7 +51,7 @@
     "markdown-loader": "^0.1.7",
     "node-libs-browser": "^0.5.3",
     "raw-loader": "^0.5.1",
-    "rimraf": "^2.4.4",
+    "rimraf": "^2.6.1",
     "style-loader": "^0.13.0",
     "surge": "latest",
     "url-loader": "^0.5.6",
